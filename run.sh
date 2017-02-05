@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="com.wendysa.apidemo.Main"
