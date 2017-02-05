@@ -13,7 +13,7 @@ When you run the sample, a HTTP server will run and host the program on port 456
 * Maven, for managing denpendencies and providing clean-build-package & run commands.
 
 ## What demo's parts that are not included in this repo
-* The demo's data. You could grab it from here: `https://github.com/WendySanarwanto/data-for-researches/blob/master/README.md` and import it into your mongodb server.
+* The demo's data. You could grab it from here: `https://github.com/WendySanarwanto/data-for-researches/` and import it into your mongodb server.
 
 ## How to run this sample
 * Pull this repository into your local machine through running `git clone https://github.com/WendySanarwanto/demo-api-spark-mongodb.git` command in your CLI terminal.
