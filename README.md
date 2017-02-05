@@ -22,6 +22,7 @@ When you run the sample, a HTTP server will run and host the program on port 456
 * Open your browser then browse to `http://localhost:4567/api/v1/gamingPc` path. Confirm that you will get a list of JSON objects.
 
 ## What are remanining parts that need to be done in near future ?
+* Pulling the record's nested details. Need to make the changes in current model class and add more new model classes to address this.
 * The unit test, I have not done it yet.
 * Creating POST, PUT , DELETE resources. I welcome for anyone whom like to work on this parts and looking forward for your pull requests.
 
