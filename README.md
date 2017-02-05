@@ -36,4 +36,10 @@ I benchmarked the GET resource path using `wrk` HTTP benchmarking tool (https://
 * 2nd run: Requests/sec:    407.19 with 78 requests were timed out and 27 calls received non-2xx or 3xx responses
 * 3rd run: Requests/sec:    462.62 with 256 requests were timed out
 
+THe machine's configuration that is used for running the benchmark are listed as follow:
+* CPU: Intel i5-6600 Skylake
+* RAM: 16 GB DDR 4 (2x8 GB)
+* Motherboard: ASUS Z170-K Intel Z170 Chipset
+* OS: Linux Ubuntu 16.04.1 LTS
+* Disk: SSD 480 GB Corsair Neutron GTX
 
