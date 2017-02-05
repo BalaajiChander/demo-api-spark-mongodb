@@ -16,7 +16,7 @@ When you run the sample, a HTTP server will run and host the program on port 456
 * The demo's data. You could grab it from here: `https://github.com/WendySanarwanto/data-for-researches/blob/master/README.md` and import it into your mongodb server.
 
 ## How to run this sample
-* Pull this repository into your local machine through running `https://github.com/WendySanarwanto/demo-api-spark-mongodb.git` command in your CLI terminal.
+* Pull this repository into your local machine through running `git clone https://github.com/WendySanarwanto/demo-api-spark-mongodb.git` command in your CLI terminal.
 * Go to inside the cloned repository's directory, then run `./build.sh` command or `mvn package` command for building the source code. 
 * Run `./run.sh` or `mvn exec:java -Dexec.mainClass="com.wendysa.apidemo.Main"` command to start the application. 
 * Open your browser then browse to `http://localhost:4567/api/v1/gamingPc` path. Confirm that you will get a list of JSON objects.
